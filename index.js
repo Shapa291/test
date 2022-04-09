@@ -1,1 +1,1 @@
-console.log("Hello grad");
+console.log("Goodbuy");
